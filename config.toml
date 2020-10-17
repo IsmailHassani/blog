@@ -16,6 +16,11 @@ disqusShortname = "ismailhassani"
 
 googleAnalytics = "UA-180668440-1"
 
+[deployment]
+    [[deployment.targets]]
+        name = "Azure"
+        URL = "azblob://$web"
+
 [params]
     author = "Ismail Hassani"
     description = "Ismail Hassani's personal website"
