@@ -22,13 +22,13 @@ By default, Visual studio replaces the hyphen with an underscore in the namespac
 As a result, the project can no longer be built. You could change the files file by file, but I've noticed that the Android head in particular, doesn't handle this issue very well. Apparently Android doesn't want underscores or hyphens in the folder name and gives some obscure errors. There is another strange error that occurs that discourages the use of hyphens and underscores, namely:
 
 - Path length:\
-The use of hyphens and underscores make the folder paths unnecessarily long. There is a maximum path length of the folders, which creates an error when retrieving certain files. There is an issue open to <a rel="noreferrer noopener" href="https://github.com/microsoft/Windows-appsample-customers-orders-database/issues/19" target="_blank">GitHub </a>which refers to this problem. It seems that a path should not be longer than 128 characters. The stupid thing is that you get an error message that a particular resource **".resw"** has not been found, but does not indicate that the path is simply too long.\
+The use of hyphens and underscores make the folder paths unnecessarily long. There is a maximum path length of the folders, which creates an error when retrieving certain files. There is an issue open to [GitHub](https://github.com/microsoft/Windows-appsample-customers-orders-database/issues/19) which refers to this problem. It seems that a path should not be longer than 128 characters. The stupid thing is that you get an error message that a particular resource **".resw"** has not been found, but does not indicate that the path is simply too long.\
 Hopefully, this will be resolved once by either removing the path limit or giving the correct error message. The shortest path as possible solves this problem.\
 In my regular UWP applications I haven't encountered this problem before.\
 So that in itself is strange. This issue has made me change all project names and folders from "I-Synergy.Framework…" to "ISynergy.Framework…"
 
 # Creating the sample project
-I recommend you to make a fork of the repository on <a rel="noreferrer noopener" href="https://github.com/I-Synergy/I-Synergy.Framework/tree/features/uno_plaform" target="_blank">GitHub </a>to perform the same steps. This also gives you a better understanding of what is happening.\
+I recommend you to make a fork of the repository on [GitHub](https://github.com/I-Synergy/I-Synergy.Framework/tree/features/uno_plaform) to perform the same steps. This also gives you a better understanding of what is happening.\
 But of course you can do this also with your own project.
 
 ![](/images/2020-09-27-6.png)
