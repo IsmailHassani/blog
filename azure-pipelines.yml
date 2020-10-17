@@ -1,7 +1,7 @@
 name: $(Date:yyyy).1$(DayOfYear)$(Rev:.r).0
 
 trigger:
-- master
+- main
 
 variables:
 - group: Default
@@ -68,11 +68,11 @@ stages:
 
 - stage: Deploy
   dependsOn: Build
-  condition: and(succeeded(), ne(variables['Build.Reason'], 'PullRequest'), eq(variables['Build.SourceBranch'], 'refs/heads/master'))
+  condition: and(succeeded(), ne(variables['Build.Reason'], 'PullRequest'), eq(variables['Build.SourceBranch'], 'refs/heads/main'))
   jobs:
   - job: deploy
     displayName: Deploy
-    condition: and(succeeded(), eq(variables['Build.SourceBranch'], 'refs/heads/master'))
+    condition: and(succeeded(), eq(variables['Build.SourceBranch'], 'refs/heads/main'))
     steps:
     # 1. Downloads Hugo executable from published artifacts
     - download: current
