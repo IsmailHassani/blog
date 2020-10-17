@@ -1,0 +1,3 @@
+[submodule "src/ismail.hassani.eu/themes/codemaster"]
+	path = src/ismail.hassani.eu/themes/codemaster
+	url = https://github.com/luizdepra/hugo-coder.git
