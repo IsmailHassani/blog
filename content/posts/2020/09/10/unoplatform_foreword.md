@@ -2,7 +2,7 @@
 draft: false
 date: 2020-09-10T16:17:58+02:00
 title: "Uno Platform - Foreword"
-description: "Uno Platform - Foreword"
+description: "My thoughts about this challenge"
 categories: ["Development"]
 series: [ "Uno Platform" ]
 ---

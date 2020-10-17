@@ -2,6 +2,7 @@
 draft: false
 date: 2012-10-09T16:17:58+02:00
 title: "Hello World!"
+description: "A short introduction"
 categories: ["General"]
 ---
 
