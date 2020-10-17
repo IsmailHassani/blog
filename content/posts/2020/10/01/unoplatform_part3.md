@@ -3,7 +3,8 @@ draft: false
 date: 2020-10-01T20:18:59+02:00
 title: "Uno Platform - Part 3"
 description: "Starting the migration of my UWP library"
-categories: ["Development"]
+categories: ["Software Development"]
+tags: ["Uno Platform", "UWP", "C#", ".Net", "Visual Studio", "Microsoft", "I-Synergy"]
 series: ["Uno Platform"]
 ---
 Hi, today I'm going to migrate the library to the Uno Platform.

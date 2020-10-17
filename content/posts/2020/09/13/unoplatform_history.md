@@ -3,7 +3,8 @@ draft: false
 date: 2020-09-13T19:09:19+02:00
 title: "Uno Platform - History"
 description: "First some history about I-Synergy"
-categories: ["Development"]
+categories: ["Software Development"]
+tags: ["Uno Platform", "UWP", "C#", ".Net", "Visual Studio", "Microsoft", "I-Synergy"]
 series: ["Uno Platform"]
 ---
 

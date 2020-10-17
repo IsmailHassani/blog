@@ -3,7 +3,8 @@ draft: false
 date: 2020-09-10T16:17:58+02:00
 title: "Uno Platform - Foreword"
 description: "My thoughts about this challenge"
-categories: ["Development"]
+categories: ["Software Development"]
+tags: ["Uno Platform", "UWP", "C#", ".Net", "Visual Studio", "Microsoft"]
 series: [ "Uno Platform" ]
 ---
 

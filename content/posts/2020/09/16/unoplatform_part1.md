@@ -3,7 +3,8 @@ draft: false
 date: 2020-09-16T20:18:59+02:00
 title: "Uno Platform - Part 1"
 description: "Prerequisites for your development environment"
-categories: ["Development"]
+categories: ["Software Development"]
+tags: ["Uno Platform", "UWP", "C#", ".Net", "Visual Studio", "Microsoft"]
 series: ["Uno Platform"]
 ---
 Hi folks,
