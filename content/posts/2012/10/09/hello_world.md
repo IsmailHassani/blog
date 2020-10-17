@@ -1,8 +1,10 @@
 ---
-title: "Hello world!"
-date: 2012-10-09T22:42:18+02:00
 draft: false
+date: 2020-10-17T16:17:58+02:00
+title: "Hello World!"
+categories: ["General"]
 ---
+
 Hello world!!!
 
 As a programmer, this phrase is often used to write your first program.
