@@ -27,7 +27,7 @@ googleAnalytics = "UA-180668440-1"
     keywords = "blog,developer,personal,.Net,software,uno platform"
     info = "Full Stack .Net Developer"
     avatarurl = "images/avatar.jpg"
-    gravatar = "ismail.hassani@i-synergy.nl"
+    #gravatar = "ismail.hassani@i-synergy.nl"
     footercontent = "A place where I can share my vision and experiences ;)"
 
     dateformat = "January 2, 2006"

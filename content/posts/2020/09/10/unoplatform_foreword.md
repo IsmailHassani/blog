@@ -7,6 +7,7 @@ categories: ["Software Development"]
 tags: ["Uno Platform", "UWP", "C#", ".Net", "Visual Studio", "Microsoft"]
 series: [ "Uno Platform" ]
 ---
+![](https://s3.amazonaws.com/uno-website-assets/wp-content/uploads/2018/08/22113759/UnoLogoSmall.png)
 
 Dear readers.
 
