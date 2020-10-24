@@ -1,11 +1,20 @@
 ---
+categories:
+- Software Development
+date: "2020-09-29T20:18:59+02:00"
+description: Adding samples before starting migration
 draft: false
-date: 2020-09-29T20:18:59+02:00
-title: "Uno Platform - Part 2"
-description: "Adding samples before starting migration"
-categories: ["Software Development"]
-tags: ["Uno Platform", "UWP", "C#", ".Net", "Visual Studio", "Microsoft", "I-Synergy"]
-series: ["Uno Platform"]
+series:
+- Uno Platform
+tags:
+- Uno Platform
+- UWP
+- C#
+- .Net
+- Visual Studio
+- Microsoft
+- I-Synergy
+title: Uno Platform - Part 2
 ---
 Welcome to the next post in the blog series of converting my existing projects to the Uno Platform.
 

@@ -1,11 +1,20 @@
 ---
+categories:
+- Software Development
+date: "2020-10-01T20:18:59+02:00"
+description: Starting the migration of my UWP library
 draft: false
-date: 2020-10-01T20:18:59+02:00
-title: "Uno Platform - Part 3"
-description: "Starting the migration of my UWP library"
-categories: ["Software Development"]
-tags: ["Uno Platform", "UWP", "C#", ".Net", "Visual Studio", "Microsoft", "I-Synergy"]
-series: ["Uno Platform"]
+series:
+- Uno Platform
+tags:
+- Uno Platform
+- UWP
+- C#
+- .Net
+- Visual Studio
+- Microsoft
+- I-Synergy
+title: Uno Platform - Part 3
 ---
 Hi, today I'm going to migrate the library to the Uno Platform.
 

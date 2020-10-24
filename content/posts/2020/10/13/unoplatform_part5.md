@@ -1,11 +1,21 @@
 ---
+categories:
+- Software Development
+date: "2020-10-13T20:18:59+02:00"
+description: Creating nuget packages
 draft: false
-date: 2020-10-13T20:18:59+02:00
-title: "Uno Platform - Part 5"
-description: "Creating nuget packages"
-categories: ["Software Development"]
-tags: ["Uno Platform", "UWP", "C#", ".Net", "Visual Studio", "Microsoft", "I-Synergy", "Nuget"]
-series: ["Uno Platform"]
+series:
+- Uno Platform
+tags:
+- Uno Platform
+- UWP
+- C#
+- .Net
+- Visual Studio
+- Microsoft
+- I-Synergy
+- Nuget
+title: Uno Platform - Part 5
 ---
 I currently use Azure DevOps for my build and release pipelines.\
 Based on a YAML file, the projects are built, the NuGet packages packaged and eventually pushed.

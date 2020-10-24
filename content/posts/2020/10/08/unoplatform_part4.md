@@ -1,11 +1,20 @@
 ---
+categories:
+- Software Development
+date: "2020-10-08T20:18:59+02:00"
+description: Testing and fixing bugs after migration
 draft: false
-date: 2020-10-08T20:18:59+02:00
-title: "Uno Platform - Part 4"
-description: "Testing and fixing bugs after migration"
-categories: ["Software Development"]
-tags: ["Uno Platform", "UWP", "C#", ".Net", "Visual Studio", "Microsoft", "I-Synergy"]
-series: ["Uno Platform"]
+series:
+- Uno Platform
+tags:
+- Uno Platform
+- UWP
+- C#
+- .Net
+- Visual Studio
+- Microsoft
+- I-Synergy
+title: Uno Platform - Part 4
 ---
 Today I'm going to test the migration to see if everything still works as it should.
 

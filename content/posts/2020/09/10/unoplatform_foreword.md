@@ -1,11 +1,19 @@
 ---
+categories:
+- Software Development
+date: "2020-09-10T16:17:58+02:00"
+description: My thoughts about this challenge
 draft: false
-date: 2020-09-10T16:17:58+02:00
-title: "Uno Platform - Foreword"
-description: "My thoughts about this challenge"
-categories: ["Software Development"]
-tags: ["Uno Platform", "UWP", "C#", ".Net", "Visual Studio", "Microsoft"]
-series: [ "Uno Platform" ]
+series:
+- Uno Platform
+tags:
+- Uno Platform
+- UWP
+- C#
+- .Net
+- Visual Studio
+- Microsoft
+title: Uno Platform - Foreword
 ---
 ![](https://s3.amazonaws.com/uno-website-assets/wp-content/uploads/2018/08/22113759/UnoLogoSmall.png)
 
