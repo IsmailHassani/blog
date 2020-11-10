@@ -1,20 +1,13 @@
----
-categories:
-- Software Development
-date: "2020-09-16T20:18:59+02:00"
-description: Prerequisites for your development environment
-draft: false
-series:
-- Uno Platform
-tags:
-- Uno Platform
-- UWP
-- C#
-- .Net
-- Visual Studio
-- Microsoft
-title: Uno Platform - Part 1
----
++++
+categories = ["Software Development"]
+date = "2020-09-16T20:18:59+02:00"
+description = "Prerequisites for your development environment"
+draft = false
+series = ["Uno Platform"]
+tags = ["Uno Platform", "UWP", "C#", ".Net", "Visual Studio", "Microsoft"]
+title = "Uno Platform - Part 1"
+
++++
 Hi folks,
 
 In order to install or use the [Uno Platform](https://platform.uno/) at all, we first need to arrange a number of things in advance. These steps are necessary because otherwise you will end up with all strange and vague errors especially in the Android head because the SDK's were not properly installed or were even outdated.

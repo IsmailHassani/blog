@@ -1,21 +1,13 @@
----
-categories:
-- Software Development
-date: "2020-10-01T20:18:59+02:00"
-description: Starting the migration of my UWP library
-draft: false
-series:
-- Uno Platform
-tags:
-- Uno Platform
-- UWP
-- C#
-- .Net
-- Visual Studio
-- Microsoft
-- I-Synergy
-title: Uno Platform - Part 3
----
++++
+categories = ["Software Development"]
+date = "2020-10-01T20:18:59+02:00"
+description = "Starting the migration of my UWP library"
+draft = false
+series = ["Uno Platform"]
+tags = ["Uno Platform", "UWP", "C#", ".Net", "Visual Studio", "Microsoft", "I-Synergy"]
+title = "Uno Platform - Part 3"
+
++++
 Hi, today I'm going to migrate the library to the Uno Platform.
 
 The previous post we had seen that the sample application gave all kind of errors and was no longer buildable. The reason for this was because the sample depended heavily on the UWP library that could no longer be used.
