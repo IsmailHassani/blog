@@ -1,21 +1,13 @@
----
-categories:
-- Software Development
-date: "2020-10-19T20:51:19+02:00"
-description: Fixing the dreadfull not implemented in Uno warnings
-draft: false
-series:
-- Uno Platform
-tags:
-- Uno Platform
-- UWP
-- C#
-- .Net
-- Visual Studio
-- Microsoft
-- I-Synergy
-title: Uno Platform - Part 6
----
++++
+categories = ["Software Development"]
+date = "2020-10-19T20:51:19+02:00"
+description = "Fixing the dreadfull not implemented in Uno warnings"
+draft = false
+series = ["Uno Platform"]
+tags = ["Uno Platform", "UWP", "C#", ".Net", "Visual Studio", "Microsoft", "I-Synergy"]
+title = "Uno Platform - Part 6"
+
++++
 After creating a nuget library, now is the time to clean up the code further.\
 As I said before, there seem to be quite a few warnings generated during the build.\
 We are now particularly interested in the warnings related to the Uno Platform.\

@@ -1,21 +1,13 @@
----
-categories:
-- Software Development
-date: "2020-09-13T19:09:19+02:00"
-description: First some history about I-Synergy
-draft: false
-series:
-- Uno Platform
-tags:
-- Uno Platform
-- UWP
-- C#
-- .Net
-- Visual Studio
-- Microsoft
-- I-Synergy
-title: Uno Platform - History
----
++++
+categories = ["Software Development"]
+date = "2020-09-13T19:09:19+02:00"
+description = "First some history about I-Synergy"
+draft = false
+series = ["Uno Platform"]
+tags = ["Uno Platform", "UWP", "C#", ".Net", "Visual Studio", "Microsoft", "I-Synergy"]
+title = "Uno Platform - History"
+
++++
 
 Hi folks! 
 

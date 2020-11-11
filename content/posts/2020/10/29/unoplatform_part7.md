@@ -1,21 +1,13 @@
----
-categories:
-- Software Development
-date: "2020-10-29T20:51:19+02:00"
-description: Running the Android application for the first time
-draft: false
-series:
-- Uno Platform
-tags:
-- Uno Platform
-- UWP
-- C#
-- .Net
-- Visual Studio
-- Microsoft
-- I-Synergy
-title: Uno Platform - Part 7
----
++++
+categories = ["Software Development"]
+date = "2020-10-29T20:51:19+02:00"
+description = "Running the Android application for the first time"
+draft = false
+series = ["Uno Platform"]
+tags = ["Uno Platform", "UWP", "C#", ".Net", "Visual Studio", "Microsoft", "I-Synergy"]
+title = "Uno Platform - Part 7"
+
++++
 Hi folks,\
 Today (on my birthday, October 29th) I started fixing bugs on the Android head.\
 After all, the goal of this transition is to be able to run my applications on Android as well.\
