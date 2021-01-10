@@ -1,5 +1,5 @@
 +++ 
-draft = true
+draft = false
 date = 2021-01-10T20:09:10+01:00
 title = "Linux and WSL2 - Part 1"
 description = "How do you run Windows applications on Linux? Or vice versa."
