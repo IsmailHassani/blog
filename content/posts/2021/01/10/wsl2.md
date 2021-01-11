@@ -128,11 +128,11 @@ I have chosen [x410](https://x410.dev/) (paid) which seemed slightly more stable
 # Linking the Linux display to the X-Server
 Unlike WSL1, you cannot use 127.0.0.1 or localhost to connect back to Windows in WSL2.\
 When you start WSL2, it gets its own IP address and works more like a Hyper-V virtual machine.\
-Microsoft seems to be working on changing this behavior and planning on [supporting shared loopback addresses just like WSL1](https://docs.microsoft.com/en-us/windows/wsl/wsl2-faq#will-wsl-2-be-able-to-use-networking-applications) but it's not yet happened.
+Microsoft seems to be working on changing this behavior and planning on [supporting shared loopback addresses just like WSL1](https://docs.microsoft.com/en-us/windows/wsl/wsl2-faq#will-wsl-2-be-able-to-use-networking-applications) but it seems not happened yet.
 
 
 In order to use X410 with Linux GUI apps or desktop environments running in WSL2, you need to make the following changes:
-- Enable 'Allow Public Access' option in X410
+- Enable 'Allow Public Access' option in X410\
 ![](/images/wsl2-allow-public-access-menu.png)
 
 - Now we need to let Linux know where we want to send the display output to.\
