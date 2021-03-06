@@ -11,6 +11,7 @@ series = ["General"]
 
 # Object oriented programming (OOP)
 One of the concepts within software development that is quite abstract, is object oriented programming.\
+I got a lot of questions to try to explain this subject.\
 In my earlier years as a programmer, I had a lot of trouble wrapping my mind around this concept.\
 Because I started with Visual Basic 6 and VBA and where you mainly program procedurally, I had trouble with this concept.\
 You simply call one function or procedure after another and "weave" the code together. It worked pretty well but also had a lot of shortcomings.\
