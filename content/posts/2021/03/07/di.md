@@ -27,7 +27,7 @@ This object is actually static in the sense that from that moment on it's an ess
 You can call it a hard dependency.
 
 You often don't want this and certainly not when the project gets bigger and more complex.\
-Refactoring and testing also becomes more difficult, because you want each class to use the single reposibility principle.\
+Refactoring and testing also becomes more difficult, because you want each class to use the single responsibility principle.\
 The class may only contain code for which it is responsible.
 
 This is where dependency injection comes in. This makes it possible to refer and use loosly coupled objects often in the form of an interface.
